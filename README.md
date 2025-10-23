@@ -26,8 +26,9 @@ cd snake-game-
 npm install
 ```
 
-3. Start the development server:
+3. Start the development dependencies and development server:
 ```bash
+npm install @vitejs/plugin-react --save-dev
 npm run dev
 ```
 
